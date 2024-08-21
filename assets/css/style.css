@@ -22,7 +22,8 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #1e1e1e;
+  background: url('https://discord.com/assets/b9995525a52dc58aecf5.svg');
+  background-size: contain;
 }
 
 .tooltip {
